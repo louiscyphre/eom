@@ -28,7 +28,7 @@
 
 /* Maximum zoom factor */
 #define MAX_ZOOM_FACTOR 20
-#define MIN_ZOOM_FACTOR 0.02
+#define MIN_ZOOM_FACTOR 0.001
 
 #define CHECK_MEDIUM 8
 #define CHECK_BLACK "#000000"
